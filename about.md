@@ -10,7 +10,7 @@ Open Source projects, led by Professor Stewart Weiss.
 
 
 This blog will be periodically updated with my experiences and challenges as I take my first steps
-into the Open Source movement:octocat:.
+into the Open Source movement.
 
 
 ### More Information
